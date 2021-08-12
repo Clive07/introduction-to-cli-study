@@ -29,27 +29,29 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. What is the terminal?
 
     ```
-    Please write your answer here.
+   the terminal is the user's access point to give a multitude of inputs for the computer to process via text.
     ```
 
 1. What is the difference between the CLI and the GUI?
 
     ```
-    Please write your answer here.
+   command line interface is solely text based. running down from line to based after each command has been executed.
+   
+   a graphical user interface replaces this text with graphics you can click and interact with to create a more user friendly experience.
     ```
 
 1. How can you get a list of files using the CLI?
 
     ```
-    Please write your answer here.
+    li
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
 
     ```
-    Comfort: 
+    Comfort: 4
 
-    Clarity: 
+    Clarity: 4
     ```
 
 ### Response Guidelines
